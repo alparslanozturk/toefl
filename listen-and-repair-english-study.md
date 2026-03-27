@@ -535,6 +535,10 @@ I will write my lines, but I might make grammar mistakes.
 Respond naturally AND correct my mistakes at the end of each of your turns.
 ```
 
+### Please give feedback inmediatly. And ask at least 30 sentencs and start with easy one. And ask exacly these sencetes that extracted from  this video https://www.youtube.com/watch?v=I46DN4NW5Bg
+
+
+
 ---
 
 *📂 File: `listen-and-repair-english-study.md`*  
