@@ -6,291 +6,244 @@ Bu çalışma rehberi, Kıdemli bir Dil Eğitim Teknolojisi Uzmanı ve TOEFL Mü
 
 Bu belgeyi bir yapay zeka modeline (ChatGPT, Claude vb.) yüklediğinizde interaktif çalışmayı başlatmak için aşağıdaki komutu kullanın:
 
-"Yüklediğim dosyayı temel alarak bana Tema 1'den başlayarak sırayla ve teker teker cümleleri sor. Ben cevap verdikten sonra düzeltmemi yap, geri bildirim ver ve bir sonraki cümleye geç. Her seferinde sadece tek bir cümle sor. Geri bildirim verirken 'Düşünce Grupları' (Thought Groups) ve 'İşlevsel Kelimeler' (Function Words) vurgusuna dikkat et."
+"Yüklediğim dosyayı temel alarak bana sırayla ve teker teker cümleleri sor. Ben cevap verdikten sonra düzeltmemi yap, geri bildirim ver ve bir sonraki cümleye geç. Her seferinde sadece tek bir cümle sor. Geri bildirim verirken 'Düşünce Grupları' (Thought Groups) ve 'İşlevsel Kelimeler' (Function Words) vurgusuna dikkat et."
 
 
 --------------------------------------------------------------------------------
 
+# Comprehensive Master Listen & Repeat Sentences List
 
-2. Bölüm 1: Dilbilgisi ve Yapı Odaklı Hazırlık (Temalar 1-15)
+## Theme 1: Academic Life, Campus Services & Facilities
+### Section 1.1: Campus Dining & Cafeteria
+* Meals are served daily here.
+* Hot dishes are prepared fresh.
+* Cold drinks are also available.
+* Several menu options are offered daily.
+* Different meals are displayed at the counter.
+* Affordable prices are shown on the menu.
+* Meals are selected before making payment.
+* Prices are listed next to each item.
+* Customers choose meals based on preference.
+* Payment is completed at the front counter.
+* Cards and mobile payments are accepted here.
+* Busy periods usually occur around noon.
+* Long lines often form during peak hours.
+* The dining area includes tables for different group sizes.
+* Some visitors prefer to take their food to go.
+* Used trays must be returned after finishing meals.
+* The space is designed for both dining and relaxation.
+* Fresh meals are prepared and served throughout the day.
+* Healthy choices are clearly marked on the food stations.
+* Students can use their campus cards for discounts.
 
-Bu bölüm, temel dilbilgisi yapılarını ve günlük İngilizce kalıplarını pekiştirmeniz için "Listen & Repair" yöntemine göre doğrulanmış cümlelerden oluşmaktadır.
+### Section 1.2: Campus Store & University Merchandise
+* Various items are sold here.
+* Textbooks are available in the store.
+* Clothing items are also available.
+* University logos are printed on shirts.
+* Sweatshirts and hoodies are sold here.
+* Caps and bags are displayed on shelves.
+* Clothing sizes are available in different ranges.
+* Some designs feature official university branding.
+* Seasonal items are displayed in special sections.
+* Students often buy clothing as souvenirs or gifts.
+* Popular items include hoodies with campus logos.
+* Some products are designed for everyday campus use.
+* New designs are introduced at the beginning of each semester.
+* Certain clothing items are available only for a limited time.
+* Display areas are organized to highlight featured merchandise.
+* The store offers a variety of branded apparel and accessories.
+* These products help promote school identity and community pride.
+* This space focuses on both practical items and university merchandise.
+* Notebooks and stationery are located near the back corner.
+* Refunds are accepted within two weeks with a valid receipt.
 
-Tema 1: Günlük Yaşam ve Rutinler
+### Section 1.3: University Lectures & Classroom Environments
+* The lecture begins on time.
+* Students sit in rows.
+* The instructor stands at the front.
+* Slides, charts, and graphs are shown.
+* Key points are explained clearly.
+* Students listen and take notes.
+* Examples with simple visuals support ideas.
+* Important terms are repeated for clarity.
+* Visual materials help explain complex concepts.
+* The instructor pauses to check understanding.
+* Some students ask questions during the lecture.
+* Short tasks and group discussions may occur.
+* The content is organized into clear sections.
+* Information is presented in a structured sequence.
+* Students focus on key ideas and main concepts.
+* Complex topics are explained using examples with clear comparisons.
+* The lecture builds knowledge through explanation with structured progression.
+* This session supports understanding, retention, and academic communication.
+* Attendance is recorded at the start of every session.
+* The syllabus outlines all required readings for the semester.
 
-* I go to school every day.
-* She doesn't like coffee in the morning.
-* He woke up at seven o'clock.
-* We were watching TV when the phone rang.
-* I have already eaten breakfast.
-* They went to the market yesterday.
-* My mother is cooking dinner right now.
-* I did not sleep well last night.
-* He always forgets his keys at home.
-* We have been living in Istanbul since 2010.
-* She bought a new dress for the party.
-* I am very tired after work.
-* They didn't come to the meeting.
-* I need to do my homework.
-* He is taller than his brother.
+### Section 1.4: Library & Research Facilities
+* The university library is open twenty-four hours during exams.
+* Quiet study zones are strictly enforced on the upper floors.
+* Students can reserve group study rooms online.
+* Librarians are available to assist with database research.
+* Academic journals can be accessed through the campus portal.
+* Borrowed books must be returned before the due date.
+* Photocopiers and scanners are located on the ground floor.
+* Electronic resources are updated regularly for students.
 
-Tema 2: Alışveriş ve Para
+---
 
-* How much does it cost?
-* I want to buy a new phone.
-* These shoes are very expensive.
-* Can I pay with a credit card?
-* I am looking for a red dress.
-* She spent all her money on shopping.
-* Do you have this in a smaller size?
-* I bought three kilos of apples.
-* This market is cheaper than that one.
-* Can you give me a 10% discount?
-* I didn't have enough money.
-* She always goes shopping on Sundays.
-* How much does it cost to fix my car?
-* I need some information about the price.
-* They gave it to me free of charge.
+## Theme 2: Business, Career Forums & Professional Events
+### Section 2.1: Technology Conferences & Software Engineering
+* The technology conference begins today.
+* Many developers attend the event.
+* New technology appears on the main stage.
+* Companies introduce their latest devices and software.
+* Engineers showcase new tools during live presentations.
+* The keynote speech introduces major product updates.
+* Developers watch presentations about new technology.
+* Companies explain tools designed for software developers.
+* Several sessions focus on artificial intelligence and cloud computing.
+* Engineers present programming tools during technical sessions.
+* Many companies explain how their platforms support modern applications.
+* Developers learn how new tools improve speed and performance.
+* Major technology companies host developer conferences every year.
+* Companies such as Apple and Google introduce new technologies at these events.
+* Speakers explain how developers can use new tools in their applications.
+* New devices and software platforms are revealed during keynote presentations.
+* Technology conferences highlight innovation in hardware, software, and artificial intelligence.
+* Developers explore the latest tools, platforms, and programming technologies at the conference.
+* Technical workshops provide hands-on experience with cloud infrastructure.
+* Open-source frameworks are gaining massive popularity among engineering teams.
 
-Tema 3: Seyahat ve Ulaşım
+### Section 2.2: Career Forums, Job Fairs & Recruitment
+* Students arrive at the career forum.
+* Many companies join the career forum today.
+* Students walk through the large conference hall.
+* The event takes place inside the university hall.
+* Many booths are set up for different companies.
+* Students stop at booths to learn about jobs.
+* Technology companies are located near the front area.
+* Finance companies are located along the central aisle.
+* Many students ask recruiters about internship opportunities.
+* Some companies explain their hiring process to interested students.
+* Students can collect brochures and learn about different career paths.
+* Many recruiters answer questions about company culture and work life.
+* Near the center of the hall, career advisers help students review their resumes.
+* This area allows students to receive useful feedback on their application materials.
+* Some companies invite students to attend short information sessions during the forum.
+* At the back of the hall, several quiet rooms are reserved for short interviews.
+* Recruiters sometimes meet promising students there for brief screening interviews.
+* By the end of the forum, many students gain valuable insights about their future careers.
+* Events like this help students prepare for future internships and full-time jobs.
+* Attending the forum is strongly recommended for students who are planning their future careers.
 
-* I am going to Paris next week.
-* We arrived in Istanbul at midnight.
-* The flight was delayed for two hours.
-* Can you tell me where the station is?
-* I have never been to New York.
-* She missed her flight because she was late.
-* We must show our passports.
-* How long does it take to go to the airport?
-* I get bored on long flights.
-* They travel on foot everywhere.
-* My luggage was lost at the airport.
-* We should book the hotel in advance.
-* I am excited about my vacation.
-* The taxi cost me 50 dollars.
-* Can I have a return ticket?
+### Section 2.3: MBA Open House & Graduate Higher Education
+* This is an MBA open house event.
+* The event is held at the business school campus.
+* Visitors are invited to explore the MBA program.
+* The registration desk is located near the entrance area.
+* At the registration desk, visitors receive name tags and event materials.
+* Staff members guide participants to different activity areas.
+* The event information board displays the map and schedule.
+* Visitors often check the schedule before attending a session.
+* In the networking lounge, guests can meet current MBA students.
+* Informal conversations often take place around the tables.
+* These discussions give visitors a better sense of student life.
+* Many participants use this time to ask questions about the program.
+* The presentation hall hosts several information sessions throughout the day.
+* During these sessions, speakers introduce the MBA curriculum and career paths.
+* Participants can also learn about internships, global programs, and leadership training.
+* Many prospective students attend open house events to better understand the learning environment.
+* Events like this allow visitors to experience the atmosphere of the business school.
+* Attending an open house can be a helpful step when deciding whether to apply to an MBA program.
 
-Tema 4: Yemek ve Restoranlar
+---
 
-* I would like to order the pasta.
-* Can we have the bill, please? We are very hungry.
-* The food here is very delicious, isn't it?
-* I don't eat meat.
-* She is allergic to peanuts.
-* This soup is too salty for me.
-* We waited for the waiter for twenty minutes.
-* I am full; I ate too much food.
-* He doesn't eat anything after 8 p.m.
-* Can you bring some more bread?
-* I prefer chicken to fish.
-* The restaurant was very crowded last night.
-* We are ordering something to drink.
-* Is it possible for us to sit near the window?
-* She cooked it with a lot of love.
+## Theme 3: Daily Conversations, Routines & Small Talk
+### Section 3.1: Greetings & Office Life Discussions
+* Hello, how have you been lately?
+* I have been working on a new project at the office.
+* That sounds interesting, tell me more about it.
+* We are designing a new mobile application for clients.
+* Do you need any help with the coding part?
+* Thanks for the offer, but the team is already full.
+* Let's grab a cup of coffee this afternoon.
+* I would love to, but I have a meeting at two o'clock.
+* How about we meet tomorrow morning instead?
+* Tomorrow morning works perfectly for me.
+* See you at the usual coffee shop near the campus.
+* Perfect, see you there and have a great day!
+* Did you finish reviewing the budget spreadsheet?
+* I will send you the updated files before the end of the day.
+* Our team meeting has been rescheduled to next Monday.
 
-Tema 5: Okul ve Eğitim
+### Section 3.2: Everyday Routines, Health & Personal Habits
+* What are your plans for the upcoming weekend?
+* I am thinking of going hiking if the weather stays nice.
+* It has been raining a lot for the past few days.
+* The forecast says it will be sunny on Sunday.
+* I need to finish my homework before I can go out.
+* Don't forget to submit the report by Friday afternoon.
+* I usually wake up early to get some exercise.
+* Drinking enough water is very important for your health.
+* She enjoys reading books in her spare time.
+* They decided to cancel the outdoor event due to the storm.
+* Taking a quick walk during lunch breaks improves focus.
+* I try to limit my screen time before going to bed.
+* Learning a new language requires consistent daily practice.
+* He started eating more vegetables to maintain a balanced diet.
 
-* I have been studying at university for three years.
-* She is the most intelligent person in the class.
-* We must finish the project by Friday.
-* I didn't understand the teacher's explanation.
-* He has been learning English since he was a child.
-* My teacher gave us a lot of homework.
-* They are very clever students.
-* I failed the exam last week.
-* Can you explain this grammar rule to me?
-* I am interested in learning Spanish.
-* She passed the exam on the first try.
-* He is a very knowledgeable person.
-* We studied hard for the final exam.
-* The lesson bored me very much.
-* I need to practise my English more.
+---
 
-Tema 6: İş Dünyası ve Kariyer
+## Theme 4: Travel, Navigation, Shopping & Dining
+### Section 4.1: Travel Logistics & Asking for Directions
+* Excuse me, could you tell me how to get to the train station?
+* Go straight down this street and turn left at the traffic light.
+* Is it far enough that I should take a taxi?
+* No, it is just a five-minute walk from here.
+* Thank you so much for your help, I appreciate it.
+* You are very welcome, have a safe journey!
+* Where can I buy a ticket for the city tour?
+* You can purchase tickets online or at the main desk.
+* Does the tour include a guide who speaks English?
+* Yes, all our tours are conducted in English.
+* What time does the last bus return to the hotel?
+* The final bus departs from downtown at nine PM.
+* Could you show me where the nearest pharmacy is on the map?
+* Is there a direct shuttle from the airport to the city center?
 
-* I have been working at a company for 5 years.
-* She is responsible for the marketing team.
-* He applied for the job but they rejected him.
-* I am bored at my job.
-* My boss told me to come early.
-* We need to make a decision quickly.
-* The meeting was cancelled because the manager was sick.
-* She earns very good money in her job.
-* I didn't have time to finish the report.
-* They gave him a pay rise for his hard work.
-* He has been working since last Monday.
-* Can you email me the document tomorrow?
-* I am good at solving problems.
-* We discussed the project in the meeting.
-* She has a lot of experience in finance.
+### Section 4.2: Dining Out & Restaurant Conversations
+* Good evening, do you have a reservation for tonight?
+* Yes, we booked a table for two under the name of Smith.
+* Right this way please, here is your menu.
+* What do you recommend for the main course?
+* Our chef's special steak is very popular tonight.
+* I will have the steak, and my friend will take the pasta.
+* Would you like anything to drink with your meal?
+* Just a bottle of sparkling water, please.
+* How was everything with your dinner tonight?
+* The food was absolutely delicious, thank you.
+* Could we get the check when you have a moment?
+* Of course, I will bring it to your table right away.
+* Does this dish contain any nuts or dairy products?
+* We would like to split the bill evenly, please.
 
-Tema 7: Sağlık ve Vücut
+### Section 4.3: Shopping, Retail & Customer Service
+* Can I help you find a specific size or color?
+* I am just looking around for a gift, thank you.
+* This jacket is currently on sale for twenty percent off.
+* Where are the fitting rooms located in this store?
+* They are right past the cash register on the left.
+* Does this item come with a worldwide warranty?
+* Please keep the receipt if you want to make an exchange.
+* We accept all major credit cards and mobile payments.
+* Are these shoes comfortable enough for long walks?
+* I would like to return this item for a full refund.
 
-* I have a pain in my back.
-* She suffers from headaches.
-* He went to the doctor to have a check-up.
-* I don't feel well today.
-* You should rest more after the operation.
-* She caught a cold last week.
-* I have had a bad headache since this morning.
-* Take this medicine every 8 hours.
-* He is allergic to dust.
-* The patient had an operation on her knee.
-* I need to lose some weight.
-* She went on a diet for three months.
-* I am very stressed at work.
-* He broke his leg and he must stay in bed.
-* The doctor advised him to stop smoking.
-
-Tema 8: Aile ve İlişkiler
-
-* I have two brothers and one sister. She is a teacher.
-* My parents are very supportive.
-* He is married to a doctor.
-* She looks very much like her mother.
-* We have been together for 5 years.
-* My uncle is a very funny person; he always makes jokes.
-* I am bored with my little brother.
-* They argued about who was right.
-* She doesn't get along well with her sister.
-* He is the oldest person in the family.
-* My grandmother is 80 years old.
-* They decided to adopt an orphan.
-* I miss my family very much.
-* We celebrated our anniversary at a restaurant.
-* She is engaged to a man from Italy.
-
-Tema 9: Teknoloji ve Sosyal Medya
-
-* I sent you a message yesterday.
-* Can you explain to me how this app works?
-* She is addicted to social media.
-* My phone's battery is dead.
-* I can't connect to the internet.
-* He posted many photos on Instagram.
-* Please don't forget to like my video.
-* This website is not working well.
-* I downloaded the app, but it doesn't work.
-* She is always on her phone.
-* The video has been going viral since yesterday.
-* Can you take a screenshot of this page?
-* I am subscribed to his channel.
-* The update is slower than before.
-* My laptop needs to be repaired.
-
-Tema 10: Hava Durumu ve Mevsimler
-
-* It is sunny today.
-* The weather is very hot in summer.
-* I don't like winter because it's too cold.
-* It has been raining since the morning.
-* The storm damaged many houses.
-* In spring, the flowers bloom.
-* I prefer summer to winter.
-* It is very cloudy and I think it will rain.
-* Last week, the temperature fell to -5°.
-* I feel cold. Can you close the window?
-* Thunder scared me when I was a child.
-* It snowed a lot yesterday.
-* Today is the hottest day of the year.
-* The rain stopped and people went out.
-* She got wet because she didn't take an umbrella.
-
-Tema 11: Duygular ve Hissiyat
-
-* I am very happy to hear this news.
-* She feels lonely and she's very sad.
-* He is very frustrated with the situation.
-* I am scared of spiders.
-* The movie was very boring; I fell asleep in the cinema.
-* She was very excited when she heard the news.
-* I felt very embarrassed about my mistake.
-* He was disappointed with his exam result.
-* She is very worried about her son.
-* I am in love with her smile.
-* They were very shocked by the accident.
-* I feel happy when I help others.
-* She was very angry when she found out.
-* He is jealous of his friend's success.
-* I have been feeling very depressed lately.
-
-Tema 12: Hobiler ve Boş Zaman
-
-* I enjoy reading books in my free time.
-* She is very good at playing chess.
-* We go to the cinema every weekend.
-* I do exercise three times a week.
-* He has been playing guitar for 10 years.
-* I have not known how to swim since I was little.
-* She does gardening every Saturday.
-* I am interested in painting.
-* He has collected stamps since he was a teenager.
-* I go fishing in the lake at the weekend.
-* She is very talented at dancing.
-* Playing video games is a great passion of mine.
-* I like travelling very much.
-* He spends his free time watching TV.
-* She goes jogging in the park every morning.
-
-Tema 13: Şehir ve Yol Tarifleri
-
-* How can I get to the city centre?
-* Go straight and then turn left at the traffic light.
-* The bank is between the pharmacy and the post office.
-* It is about a 10-minute walk.
-* I am lost. Can you show me the way?
-* The museum is closed on Mondays.
-* You must cross the bridge and then turn.
-* It is at the end of the road on the right.
-* This city has a very large population.
-* I live in Istanbul.
-* The traffic here is terrible.
-* You can't miss it — it's next to the big hotel.
-* She waited for me outside the cinema.
-* Walk down this street until you reach the square.
-* Take bus number 10 and get off at the third stop.
-
-Tema 14: Zamanlar Hızlı Alıştırma (Grammar Focus)
-
-* She is living in Paris right now.
-* I have been studying English for two years.
-* Did you go to the party?
-* By the time he arrived, she had already left.
-* I will call you when I arrive.
-* They haven't seen him since 2022.
-* She was writing a letter when I called.
-* He has just left.
-* We used to go to the park as children.
-* If I see him, I will tell him.
-* If I had more time, I would learn piano.
-* She said she would come the next day.
-* I know the answer.
-* By 2030, we will have finished the project.
-* He has been working here for 3 years.
-
-Tema 15: Karıştırılan Kelimeler (Confusing Words)
-
-* I am very bored in this class.
-* The homework was very boring.
-* Can you lend me your pen?
-* I want to lend you some money.
-* I made a mistake on the test.
-* She did her homework.
-* Can you tell me if I am right?
-* He is very sensible — he always thinks before acting.
-* I look forward to meeting you.
-* She is used to waking up early.
-* I used to smoke but I stopped.
-* He said he doesn't mind waiting.
-* I suggest that you go to the doctor.
-* She denied taking the money.
-* I regret to inform you there are no seats.
 
 
 --------------------------------------------------------------------------------
 
-
-3. Bölüm 2: TOEFL 2026 Senaryo Temelli Cümleler (Temalar 16-24)
 
 Bu bölümde, TOEFL iBT 2026 sınavında karşılaşacağınız 7 aşamalı zorluk seviyesine uygun akademik ve kampüs senaryoları bulunmaktadır.
 
