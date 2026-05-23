@@ -391,8 +391,135 @@ Tema 24: Seyahat ve Havaalanı Güvenliği (Travel & Security)
 
 
 --------------------------------------------------------------------------------
+Cafeteria (Kampüs Yemekhanesi)
 
+* Meals are served daily here.
+* Hot dishes are prepared fresh.
+* Cold drinks are also available.
+* Several menu options are offered daily.
+* Different meals are displayed at the counter.
+* Affordable prices are shown on the menu.
+* Meals are selected before making payment.
+* Prices are listed next to each item.
+* Customers choose meals based on preference.
+* Payment is completed at the front counter.
+* Cards and mobile payments are accepted here.
+* Busy periods usually occur around noon.
+* Long lines often form during peak hours.
+* The dining area includes tables for different group sizes.
+* Some visitors prefer to take their food to go.
+* Used trays must be returned after finishing meals.
+* The space is designed for both dining and relaxation.
+* Fresh meals are prepared and served throughout the day.
 
+Campus Store (Kampüs Mağazası)
+
+* Various items are sold here.
+* Textbooks are available in the store.
+* Clothing items are also available.
+* University logos are printed on shirts.
+* Sweatshirts and hoodies are sold here.
+* Caps and bags are displayed on shelves.
+* Clothing sizes are available in different ranges.
+* Some designs feature official university branding.
+* Seasonal items are displayed in special sections.
+* Students often buy clothing as souvenirs or gifts.
+* Popular items include hoodies with campus logos.
+* Some products are designed for everyday campus use.
+* New designs are introduced at the beginning of each semester.
+* Certain clothing items are available only for a limited time.
+* Display areas are organized to highlight featured merchandise.
+* The store offers a variety of branded apparel and accessories.
+* These products help promote school identity and community pride.
+* This space focuses on both practical items and university merchandise.
+
+Lecture Hall (Derslik / Amfi)
+
+* The lecture begins on time.
+* Students sit in rows.
+* The instructor stands at the front.
+* Slides charts and graphs are shown.
+* Key points are explained clearly.
+* Students listen and take notes.
+* Examples with simple visuals support ideas.
+* Important terms are repeated for clarity.
+* Visual materials help explain complex concepts.
+* The instructor pauses to check understanding.
+* Some students ask questions during the lecture.
+* Short tasks and group discussions may occur.
+* The content is organized into clear sections.
+* Information is presented in a structured sequence.
+* Students focus on key ideas and main concepts.
+* Complex topics are explained using examples with clear comparisons.
+* The lecture builds knowledge through explanation with structured progression.
+* This session supports understanding retention and academic communication.
+
+Technology Conference (Teknoloji Konferansı)
+
+* The technology conference begins today.
+* Many developers attend the event.
+* New technology appears on the main stage.
+* Companies introduce their latest devices and software.
+* Engineers showcase new tools during live presentations.
+* The keynote speech introduces major product updates.
+* Developers watch presentations about new technology.
+* Companies explain tools designed for software developers.
+* Several sessions focus on artificial intelligence and cloud computing.
+* Engineers present programming tools during technical sessions.
+* Many companies explain how their platforms support modern applications.
+* Developers learn how new tools improve speed and performance.
+* Major technology companies host developer conferences every year.
+* Companies such as Apple and Google introduce new technologies at these events.
+* Speakers explain how developers can use new tools in their applications.
+* New devices and software platforms are revealed during keynote presentations.
+* Technology conferences highlight innovation in hardware software and artificial intelligence.
+* Developers explore the latest tools platforms and programming technologies at the conference.
+
+Career Forum (Kariyer Forumu)
+
+* Students arrive at the career forum.
+* Many companies join the career forum today.
+* Students walk through the large conference hall.
+* The event takes place inside the university hall.
+* Many booths are set up for different companies.
+* Students stop at booths to learn about jobs.
+* Technology companies are located near the front area.
+* Finance companies are located along the central aisle.
+* Many students ask recruiters about internship opportunities.
+* Some companies explain their hiring process to interested students.
+* Students can collect brochures and learn about different career paths.
+* Many recruiters answer questions about company culture and work life.
+* Near the center of the hall career advisers help students review their resumes.
+* This area allows students to receive useful feedback on their application materials.
+* Some companies invite students to attend short information sessions during the forum.
+* At the back of the hall several quiet rooms are reserved for short interviews.
+* Recruiters sometimes meet promising students there for brief screening interviews.
+* By the end of the forum many students gain valuable insights about their future careers.
+* Events like this help students prepare for future internships and full-time jobs.
+* Attending the forum is strongly recommended for students who are planning their future careers.
+
+MBA Openhouse (MBA Tanıtım Günü)
+
+* This is an MBA openhouse event.
+* The event is held at the business school campus.
+* Visitors are invited to explore the MBA program.
+* The registration desk is located near the entrance area.
+* At the registration desk visitors receive name tags and event materials.
+* Staff members guide participants to different activity areas.
+* The event information board displays the map and schedule.
+* Visitors often check the schedule before attending a session.
+* In the networking lounge guests can meet current MBA students.
+* Informal conversations often take place around the tables.
+* These discussions give visitors a better sense of student life.
+* Many participants use this time to ask questions about the program.
+* The presentation hall hosts several information sessions throughout the day.
+* During these sessions speakers introduce the MBA curriculum and career paths.
+* Participants can also learn about internships global programs and leadership training.
+* Many prospective students attend openhouse events to better understand the learning environment.
+* Events like this allow visitors to experience the atmosphere of the business school.
+* Attending an open house can be a helpful step when deciding whether to apply to an MBA program.
+
+--------------------------------------------------------------------------------
 4. Başarı İpuçları ve Skor Tablosu
 
 TOEFL iBT Speaking – Listen and Repeat Puanlama Rubriği
